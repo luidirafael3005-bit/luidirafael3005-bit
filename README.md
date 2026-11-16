@@ -1,7 +1,7 @@
 Olá, eu sou o Luidi Rafael 👋
 Estudante de Engenharia de Redes de Comunicação (UnB) | Cibersegurança, Redes, Automação & Inteligência Artificial
 � � �
-🛡️ Sobre Mim
+ 🛡️ Sobre Mim
 Graduando em Engenharia de Redes de Comunicação pela Universidade de Brasília (UnB) (previsão de conclusão: 12/2027) e estagiário de Infraestrutura, Redes e Segurança da Informação no Tribunal Regional Eleitoral do Distrito Federal (TRE-DF).
 Minha atuação e meus estudos concentram-se na interseção entre Cibersegurança (Blue Team & Segurança Ofensiva), Arquitetura de Redes, Integração de Sistemas via APIs REST e Inteligência Artificial aplicada. Utilizo ferramentas de IA generativa e LLMs diariamente para acelerar automações, auditar configurações, estruturar scripts e estudar vetores de ataque e defesa em ambientes modernos.
 🔭 Atualmente: Atuando com governança de acessos (VPN), segurança de endpoints (MDM em 200+ dispositivos), inventário lógico automatizado (NetBox + YAML) e observabilidade (Zabbix 8.0 + Grafana) no TRE-DF.
